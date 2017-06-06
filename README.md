@@ -1,8 +1,8 @@
 --------------------------------------
 ## mafia_bot
 
-- git clone https://github.com/mafia-007/mafia_cli
-- cd mafia_cli
+- git clone https://github.com/ramindel0761/Cdelete.git
+- cd Cdelete
 - sh install
 - #edit config.lua, line [28 , 33]
 - ./launch.sh
